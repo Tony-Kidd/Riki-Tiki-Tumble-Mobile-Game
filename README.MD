@@ -1,1 +1,1 @@
-Download the entire code and open the "index.html" file.
+Code is not currently uploaded but you can find the game by following the game link file
